@@ -8,12 +8,13 @@
 
 ## 💫 About Me
 
-I'm currently pursuing a BTech in Electronics and Communication Engineering at **[NIT Tadepalligudem](https://www.nitt.edu/)**. I have a deep interest in Data Analysis and Software Development, and I am currently exploring Machine Learning and Deep Learning. My passion for technology drives me to contribute to Open Source Projects and work on several exciting projects.
-- 📫 Reach me through:
+I'm currently pursuing a BTech in Electronics and Communication Engineering at **[NIT Tadepalligudem](https://www.nitandhra.ac.in/main/)**. I have a deep interest in Data Analysis and Software Development, and I am currently exploring Machine Learning and Deep Learning. My passion for technology drives me to contribute to Open Source Projects and work on several exciting projects.
 
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gangadharallam/)
-  - [![G Mail](https://img.shields.io/badge/G%20Mail-%23EA4335.svg?style=social&logo=GMail)](mailto:gangadhar.allam2001@gmail.com)
-  - [![Website](https://img.shields.io/badge/Website-%231877F2.svg?style=social&logo=Microsoft%20Edge)](https://gangadhar107.github.io/portfolio-website/)
+Feel free to reach out to me through:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gangadharallam/)
+- [![G Mail](https://img.shields.io/badge/G%20Mail-%23EA4335.svg?style=social&logo=GMail)](mailto:gangadhar.allam2001@gmail.com)
+- [![Website](https://img.shields.io/badge/Website-%231877F2.svg?style=social&logo=Microsoft%20Edge)](https://gangadhar107.github.io/portfolio-website/)
 
 #### **If you like my profile, feel free to leave a star 🌟 which encourages me!**
 
