@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="header-image" width="100%" height="400px">
+<img src="banner.gif" alt="header-image" width="100%">
 <h1 align="center">Hello! I'm Allam Gangadhar - A Python Developer 🐍</h1>
 
 ### About Me :
@@ -9,15 +9,11 @@
 * 👯 I’m passionate about contributing to **Open Source Projects**
 * 📫 How to reach me :
 
-  [![Mail][5]][6] [![LinkedIn][1]][2] [![Portfolio][3]][4]
-   
+<div align="center">
 
-[1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:  https://www.linkedin.com/in/gangadharallam/
-[3]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white
-[4]: https://gangadhar107.github.io/portfolio-website/
-[5]: https://img.shields.io/badge/Mail-000000?style=for-the-badge&logoColor=white
-[6]: mailto:gangadhar.allam2001@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gangadharallam/) [![G Mail](https://img.shields.io/badge/G%20Mail-%23EA4335.svg?style=social&logo=GMail)](mailto:gangadhar.allam2001@gmail.com) [![Website](https://img.shields.io/badge/Website-%231877F2.svg?style=social&logo=Microsoft%20Edge)](https://gangadhar107.github.io/portfolio-website/) 
+
+</div>
 
 ---
 
