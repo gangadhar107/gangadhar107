@@ -8,12 +8,7 @@
 
 ## 💫 About Me
 
-I'm currently pursuing my BTech in Electronics and Communication at **[NIT Tadepalligudem](https://www.nitt.edu/)**. I am interested in **Data Analysis and Software Development** and exploring **Machine Learning and Deep Learning**. I love contributing to **Open Source Projects** and am currently working on several exciting projects.
-
-- 🎓 I’m currently pursuing my BTech in Electronics and Communication at **NIT Tadepalligudem**.
-- 👀 I’m interested in **Data Analysis and Software Development**.
-- 🌱 I’m currently exploring **Machine Learning and Deep Learning**.
-- 👯 I’m passionate about contributing to **Open Source Projects**.
+I'm currently pursuing a BTech in Electronics and Communication Engineering at **[NIT Tadepalligudem](https://www.nitt.edu/)**. I have a deep interest in Data Analysis and Software Development, and I am currently exploring Machine Learning and Deep Learning. My passion for technology drives me to contribute to Open Source Projects and work on several exciting projects.
 - 📫 Reach me through:
 
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/gangadharallam/)
