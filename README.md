@@ -1,4 +1,4 @@
-<img src="G Banner.jpg" alt="header-image" width="100%" height="400px">
+<img src="banner.gif" alt="header-image" width="100%" height="400px">
 <h1 align="center">Hello! I'm Allam Gangadhar - A Python Developer 🐍</h1>
 
 ### About Me :
