@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" alt="header-image" width="100%">
+<img src="code-820275_1280.jpg" alt="header-image" width="100%" height="400px">
 <h1 align="center">Hello! I'm Allam Gangadhar - A Python Developer 🐍</h1>
 
 ### About Me :
@@ -7,10 +7,17 @@
 * 👀 I’m interested in **Data Analysis and Software Development**
 * 🌱 I’m currently exploring **Machine Learning and Deep Learning**
 * 👯 I’m passionate about contributing to **Open Source Projects**
-* 📫 How to reach me - **gangadhar.allam2001@gmail.com**
+* 📫 How to reach me :
+
+  [![Mail][5]][6] [![LinkedIn][1]][2] [![Portfolio][3]][4]
+   
 
 [1]:  https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [2]:  https://www.linkedin.com/in/gangadharallam/
+[3]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white
+[4]: https://gangadhar107.github.io/portfolio-website/
+[5]: https://img.shields.io/badge/Mail-000000?style=for-the-badge&logoColor=white
+[6]: mailto:gangadhar.allam2001@gmail.com
 
 ---
 
@@ -35,11 +42,11 @@
 
 ### Tools :
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### Technologies :
 
@@ -73,9 +80,3 @@
         <img alt="Gangadhar's top languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=gangadhar107&layout=compact&theme=radical" width="390px"/>
 </a>
 </p>
-
----
-
-### Connect with me :
-
-[![LinkedIn][1]][2]
