@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hello! I'm Allam Gangadhar - A Python Developer 🐍</h1>
+<h1 align="center">Hello! I'm Allam Gangadhar</h1>
 
 ## 💫 About Me
 
