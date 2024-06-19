@@ -50,24 +50,5 @@ Feel free to reach out to me through:
 </div>
 
 ---
-
-## ⚡ GitHub Stats
-
-<div align="center">
-   <a href="https://github.com/gangadhar107">
-        <img alt="Gangadhar's streak" src="https://streak-stats.demolab.com?user=gangadhar107&theme=radical&border_radius=2.5"/>
-   </a>
-</div>
-
-<div align="center">
-<a href="https://github.com/gangadhar107">
-        <img alt="Gangadhar's GitHub stats" src="https://readme-stats.warengonzaga.com/api?username=gangadhar107&show_icons=true&count_private=true&theme=radical" width="400px"/>
-</a>
-
-<a href="https://github.com/gangadhar107">
-        <img alt="Gangadhar's top languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=gangadhar107&layout=compact&theme=radical" width="390px"/>
-</a>
-</div>
-
 ![](https://komarev.com/ghpvc/?username=gangadhar107&label=Profile%20views&color=0e75b6)
 ![](https://hit.yhype.me/github/profile?user_id=70138027)
