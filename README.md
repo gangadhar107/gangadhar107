@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-I'm currently pursuing a BTech in Electronics and Communication Engineering at **[NIT Tadepalligudem](https://www.nitandhra.ac.in/main/)**. I have a deep interest in Data Analysis and Software Development, and I am currently exploring Machine Learning and Deep Learning. My passion for technology drives me to contribute to Open Source Projects and work on several exciting projects.
+I'm currently pursuing a BTech in Electronics and Communication Engineering at **[NIT Tadepalligudem](https://www.nitandhra.ac.in/main/)**. I have a deep interest in Data Analysis and Software Development, and I am currently exploring Machine Learning and Deep Learning. My passion for technology drives me to contribute to Open Source Projects.
 
 Feel free to reach out to me through:
 
