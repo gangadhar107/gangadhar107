@@ -38,6 +38,7 @@ Feel free to reach out to me through:
 - **[Exploratory Data Analysis of Sales Data](https://github.com/gangadhar107/Exploratory-Data-Analysis-EDA-of-Sales-Dataset)**: Conducted EDA on sales data to identify trends, top-performing products, and customer insights.
 - **[Bank Management System](https://github.com/gangadhar107/Bank-Management-System)**: Developed a system for essential banking operations with a focus on security and efficiency.
 - **[Facial Emotion Detector](https://github.com/gangadhar107/Facial-Emotion-Detector-using-OpenCV-and-Deep-Learning)**: Created a facial emotion detection system using deep learning techniques for real-time emotion classification.
+- **[Sales Analysis Dashboard using Power BI](https://github.com/gangadhar107/Sales-Analysis-Dashboard-using-Power-BI)**: Developed an interactive sales analysis dashboard using Power BI by collecting, preparing, and modeling sales data, creating visualizations, and implementing dynamic filters and interactive features to support data-driven decision-making.
 
 ---
 
