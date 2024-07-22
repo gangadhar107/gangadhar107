@@ -42,14 +42,5 @@ Feel free to reach out to me through:
 
 ---
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 ![](https://komarev.com/ghpvc/?username=gangadhar107&label=Profile%20views&color=0e75b6)
-![](https://hit.yhype.me/github/profile?user_id=70138027)
+
